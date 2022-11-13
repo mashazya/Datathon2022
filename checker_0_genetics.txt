@@ -1,0 +1,25 @@
+Output file formatted properly: check
+Valid number of driver pins used: check
+Driver pins are used only once: check
+Chains could be extracted: check
+Chains start and end at the driver: check
+All pins are routed exactly once: check
+----------------------------------------
+Number of chains formed: 16
+ - Chain 0 - Length = 153483710
+ - Chain 1 - Length = 174059049
+ - Chain 2 - Length = 151150113
+ - Chain 3 - Length = 164020091
+ - Chain 4 - Length = 149455695
+ - Chain 5 - Length = 164753110
+ - Chain 6 - Length = 149960873
+ - Chain 7 - Length = 134627253
+ - Chain 8 - Length = 151977792
+ - Chain 9 - Length = 125504463
+ - Chain 10 - Length = 100954161
+ - Chain 11 - Length = 162617306
+ - Chain 12 - Length = 164094066
+ - Chain 13 - Length = 153429429
+ - Chain 14 - Length = 143004429
+ - Chain 15 - Length = 142053337
+Average length = 149071554.8125
